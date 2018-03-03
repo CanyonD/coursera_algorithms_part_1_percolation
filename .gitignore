@@ -32,7 +32,3 @@ out
 gen
 .idea/compiler.xml
 .idea/inspectionProfiles/
-lib/
-resource/
-src/
-test/
